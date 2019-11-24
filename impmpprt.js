@@ -1,4 +1,4 @@
-//FCC: write a prototype that acts like map(): 
+//FCC: prototype that acts like map(): 
 
 Array.prototype.myMap = function(callback){
 
